@@ -1,0 +1,21 @@
+.navbar {
+    background-color: #ff6347; /* Change this to white when a picture is added to the main site */
+    padding: 15px;
+    text-align: right;
+    border-radius: 5px;
+}
+
+.navButton {
+    padding-right: 13px;
+    padding-left: 13px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: larger;
+    text-decoration: none;
+    color:black;
+}
+
+.currentSite {
+    background-color: aliceblue; /*A bit darker than the navbar. I think the navbar could be white or white-ish*/
+    border-radius: 5px;
+}
