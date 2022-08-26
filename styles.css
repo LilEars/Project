@@ -395,3 +395,38 @@ footer p {
     transform: scale(1);
   }
 }
+
+/* Reservation part */
+
+.reservation_h1 {
+  padding-left: 3rem;
+  padding-top: 1rem;
+}
+
+.reservation_h3 {
+  padding-left: 1rem;
+  padding-top: 0.5rem;
+  color: black;
+}
+
+.card {
+  background-color: rgba(189, 227, 252, 0.39);
+  width: 30%;
+  margin-left: 1rem;
+}
+
+.container_res {
+  display: flex;
+  margin: 2rem;
+}
+
+.card_p {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  color:black !important;
+}
+
+.card_fee {
+  text-align: center;
+  color:black ;
+}
